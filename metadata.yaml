@@ -1,0 +1,31 @@
+_repo: Jorrocks-Jaunts-and-Jollities_15387
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Surtees, Robert Smith
+    alias: Surtees, R. S. (Robert Smith)
+    birthdate: 1805
+    deathdate: 1864
+    gutenberg_agent_id: '6028'
+    url: http://www.gutenberg.org/2009/agents/6028
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Smith_Surtees
+description: ''
+gutenberg_bookshelf: Animals-Wild-Trapping
+gutenberg_issued: '2005-03-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15387'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fox hunting -- Fiction'
+- !lcsh 'England -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Hunting stories'
+title: Jorrocks' Jaunts and Jollities
+url: http://www.gutenberg.org/ebooks/15387
